@@ -1,9 +1,17 @@
-# Хэрэглэсэн python багцууд
-numpy
+---
+
+## 📦 requirements.txt
+## Хэрэглэсэн python багцууд
+
+```txt
+
 pandas
+numpy
 matplotlib
 seaborn
 scikit-learn
 tensorflow
 jupyter
 sqlalchemy
+keras
+opencv-python
