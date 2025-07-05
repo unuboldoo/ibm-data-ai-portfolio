@@ -1,1 +1,9 @@
 # Хэрэглэсэн python багцууд
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+jupyter
+sqlalchemy
